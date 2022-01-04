@@ -1,2 +1,2 @@
-# C22
-Pirates invasion game setup
+# PRO-C22-SA-Boilerplate_code
+Boilerplate code for student  
